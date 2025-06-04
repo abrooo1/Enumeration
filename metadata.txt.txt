@@ -1,0 +1,10 @@
+[general]
+name=ETH_preEA_Tool
+description=Automatic Enumeration Area Generator for Ethiopia Census
+version=1.0
+qgisMinimumVersion=3.22
+author=Sarchil Qader / WorldPop
+email=release@worldpop.org
+repository=https://github.com/worldpop/ETH_preEA_Tool 
+about=Generates census pre-EA boundaries using high-resolution satellite and GIS data for Ethiopia.
+category=WorldPop Tools
